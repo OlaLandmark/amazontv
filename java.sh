@@ -1,2 +1,4 @@
 remi
 taiwo
+wealth
+peace
